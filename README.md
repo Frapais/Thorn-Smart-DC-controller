@@ -1,5 +1,7 @@
 # Thorn   
-Dual MOSFET Power Control Module for Makers  
+Dual MOSFET Power Control Module for Makers
+|<img src="/Images/image1.jpg" alt="1" width="300"/>|<img src="/Images/image2.jpg" alt="2" width="300"/>|<img src="/Images/image6.jpg" alt="6" width="300"/>|
+|---|---|---|
 
 Thorn is a compact, open-source dual MOSFET control module designed as part of the **SprigStack ecosystem**.  
 It allows an ESP32 (like the [Sprig-C3](https://github.com/Frapais/SprigC3-ESP32-Development-Board)) or any microcontroller to switch and control **high-current DC loads up to 10A each**, with input voltages from **5–30V**.  
@@ -35,3 +37,5 @@ Perfect for driving **LEDs, motors, fans, heaters, pumps, or other DC devices** 
 3. Plug the module into a **Sprig-C3** or wire it to your own MCU.  
 
 ### Example Wiring
+![drawing](/Images/Thorn%20wiring%20diagram.png)
+
