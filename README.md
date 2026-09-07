@@ -10,6 +10,11 @@ Perfect for driving **LEDs, motors, fans, heaters, pumps, or other DC devices** 
 
 ---
 
+## 🔋 Free ESPHome battery pack
+Building battery-powered ESP32 sensors? Check out this battery-life
+calculator (works with any ESP32 board):
+**→ [Get the free pack](https://sprig-labs.com/esp32-battery-life-calculator/?utm_source=github&utm_medium=readme)**
+
 ## ✨ Features
 -  **Dual MOSFET channels** — control two independent DC loads.  
 -  **Wide input voltage**: 5–30V DC.  
